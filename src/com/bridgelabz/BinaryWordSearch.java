@@ -7,7 +7,7 @@ public class BinaryWordSearch {
 
         String[] batchMate = {"RamKrishna", "Roja", "Sanjay", "Aviral", "Shubham", "Pallavi", "Prem", "ShivRaj"};
         binarySearch.insertionSort(batchMate);
-        binarySearch.search(batchMate, "RamKrishna");
+        binarySearch.binarySearch(batchMate, "RamKrishna");
         binarySearch.toPrint(batchMate);
     }
 }
