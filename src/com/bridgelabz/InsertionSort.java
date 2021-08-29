@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class Algorithm {
+public class InsertionSort {
 
     public static void main(String[] args) {
         Utility<String> insertionSort = new Utility<>();
