@@ -10,7 +10,7 @@ public class InsertionSort {
         System.out.println("before Sorting :- ");
         insertionSort.toPrint(batchMate);
 
-        insertionSort.sort(batchMate);
+        insertionSort.insertionSort(batchMate);
 
         System.out.println("\nafter sorting :- ");
         insertionSort.toPrint(batchMate);
